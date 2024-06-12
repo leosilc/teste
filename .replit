@@ -1,0 +1,4 @@
+language = "c"
+
+[run]
+command = "gcc main.c -o main && ./main"
